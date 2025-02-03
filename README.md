@@ -10,6 +10,10 @@ Este metodo se usa mucho a la hora del desarrollo de malware pero con mas tecnic
 
 El shellcode puede traer cualquier funcion por detras (Para los que no estan familiarizados) donde pueden entablar una Reverse Shell desde la misma
 
+# Compilacion
+```powershell
+go build main.go -ldflags "-s -w -H windowsgui" -o salida.go
+```
 
 
 Telegram: @DarknetGhost2
