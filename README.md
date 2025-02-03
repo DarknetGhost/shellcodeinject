@@ -15,6 +15,7 @@ El shellcode puede traer cualquier funcion por detras (Para los que no estan fam
 go build main.go -ldflags "-s -w -H windowsgui" -o salida.go
 ```
 
+# Contactame o Unete a mi grupo♥
 
 Telegram: @DarknetGhost2
 
